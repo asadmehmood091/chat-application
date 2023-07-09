@@ -45,3 +45,7 @@ Although the application does not implement a real-time system with a backend, i
 
 ## User Interface
 The user interface of the chat application has been designed to be intuitive and visually appealing. The design follows the principles of responsive design, ensuring a great user experience on both mobile and desktop devices.
+
+![Screenshot from 2023-07-09 11-05-28](https://github.com/asadmehmood091/chat-application/assets/45494881/5a2e1c9f-0f21-4be5-a6b8-044d6021c920)
+
+![Screenshot from 2023-07-09 11-06-22](https://github.com/asadmehmood091/chat-application/assets/45494881/fcac2a6b-56a3-46d8-b675-9fe80ba790d7)

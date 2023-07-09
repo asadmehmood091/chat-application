@@ -40,6 +40,8 @@ User Interface
 The user interface of the chat application has been designed to be intuitive and visually appealing. The design follows the principles of responsive design, ensuring a great user experience on both mobile and desktop devices. 
 
 
+
+
 Contact
 For any questions, suggestions, or support, please feel free to reach out:
 
